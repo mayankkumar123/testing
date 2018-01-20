@@ -2,8 +2,7 @@
 int main()
 { 
  printf("Hello!, world!\n");
- printf("Hello!!");
-
+ printf("koss");
 
 }
 
